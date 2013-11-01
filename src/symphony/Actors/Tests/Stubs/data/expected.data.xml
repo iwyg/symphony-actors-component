@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <get-articles>
+    <entry handle="dummy-article">
+      <title>Dummy Article</title>
+      <body>This is a test, really.</body>
+      <images>
+        <item id="1"/><item id="3"/>
+      </images>
+    </entry>
+  </get-articles>
+  <get-images>
+    <entry id="1">
+      <filename>one.png</filename>
+    </entry>
+    <entry id="3">
+      <filename>three.png</filename>
+    </entry>
+  </get-images>
+</data>
